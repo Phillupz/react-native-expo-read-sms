@@ -20,5 +20,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/maniac-tech/react-native-expo-read-sms.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
   }
 }
